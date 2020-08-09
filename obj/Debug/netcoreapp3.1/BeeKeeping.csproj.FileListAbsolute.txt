@@ -1,0 +1,13 @@
+C:\Users\jackt\Desktop\BeeKeeping\bin\Debug\netcoreapp3.1\BeeKeeping.exe
+C:\Users\jackt\Desktop\BeeKeeping\bin\Debug\netcoreapp3.1\BeeKeeping.deps.json
+C:\Users\jackt\Desktop\BeeKeeping\bin\Debug\netcoreapp3.1\BeeKeeping.runtimeconfig.json
+C:\Users\jackt\Desktop\BeeKeeping\bin\Debug\netcoreapp3.1\BeeKeeping.runtimeconfig.dev.json
+C:\Users\jackt\Desktop\BeeKeeping\bin\Debug\netcoreapp3.1\BeeKeeping.dll
+C:\Users\jackt\Desktop\BeeKeeping\bin\Debug\netcoreapp3.1\BeeKeeping.pdb
+C:\Users\jackt\Desktop\BeeKeeping\obj\Debug\netcoreapp3.1\BeeKeeping.csprojAssemblyReference.cache
+C:\Users\jackt\Desktop\BeeKeeping\obj\Debug\netcoreapp3.1\BeeKeeping.AssemblyInfoInputs.cache
+C:\Users\jackt\Desktop\BeeKeeping\obj\Debug\netcoreapp3.1\BeeKeeping.AssemblyInfo.cs
+C:\Users\jackt\Desktop\BeeKeeping\obj\Debug\netcoreapp3.1\BeeKeeping.csproj.CoreCompileInputs.cache
+C:\Users\jackt\Desktop\BeeKeeping\obj\Debug\netcoreapp3.1\BeeKeeping.dll
+C:\Users\jackt\Desktop\BeeKeeping\obj\Debug\netcoreapp3.1\BeeKeeping.pdb
+C:\Users\jackt\Desktop\BeeKeeping\obj\Debug\netcoreapp3.1\BeeKeeping.genruntimeconfig.cache
